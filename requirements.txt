@@ -1,0 +1,12 @@
+pyTelegramBotAPI
+opencv-python
+torch
+torchvision
+tqdm
+imgaug
+requests
+pytorchcv
+pandas
+tensorboard
+rmn
+google-cloud-dialogflow
